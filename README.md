@@ -1,2 +1,3 @@
 # Medium-Clone
- patika.dev ile yaptığım  medium clone
+ patika.dev ile yaptığım Boostrap medium clone
+İçerisinde index.html,css,js,fontawesome dosyaları vardır.
