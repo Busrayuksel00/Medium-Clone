@@ -1,2 +1,2 @@
 # Medium-Clone
- patika.dev medium clone
+ patika.dev ile yaptığım  medium clone
