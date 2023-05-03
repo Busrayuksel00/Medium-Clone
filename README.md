@@ -1,3 +1,3 @@
 # Medium-Clone
-Patika.Dev ile yaptığım boostrap medium clone
+Patika.Dev ile yaptığım  medium clone 
 İçerisinde index.html,css,js,fontawesome dosyaları vardır.
